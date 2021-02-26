@@ -8,6 +8,10 @@ Those are some of the projects I done for school over the years.
 
 ![Output of reddit-galaxy project](https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg)
 
+### ball-and-stick-man
+
+![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)
+
 ### TicTacToe AI
 
 ![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)
