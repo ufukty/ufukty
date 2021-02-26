@@ -1,16 +1,13 @@
-### Hi there 👋
+Those are some of the projects I done for school over the years.
 
-<!--
-**ufukty/ufukty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Diffusion of Innovation simulation
 
-Here are some ideas to get you started:
+![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reddit Galaxy
+
+![Output of reddit-galaxy project](https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg)
+
+### TicTacToe AI
+
+![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)
