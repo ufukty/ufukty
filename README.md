@@ -1,17 +1,21 @@
 Those are some of the projects I done for school over the years.
 
-### Diffusion of Innovation simulation
+### Reddit Galaxy (2021)
+[Details](https://github.com/ufukty/reddit-galaxy)
 
-![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)
+[![Output of reddit-galaxy project](https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg)](https://github.com/ufukty/reddit-galaxy)
 
-### Reddit Galaxy
+### Diffusion of Innovation simulation (2020)
+[Details](https://github.com/ufukty/doi)
 
-![Output of reddit-galaxy project](https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg)
+[![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)](https://github.com/ufukty/doi)
 
-### ball-and-stick-man
+### TicTacToe AI (2018)
+[Details](https://github.com/ufukty/TicTacToe-AI)
 
-![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)
+[![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)](https://github.com/ufukty/TicTacToe-AI)
 
-### TicTacToe AI
+### ball-and-stick-man (2016)
+[Details](https://github.com/ufukty/ball-and-stick-man)
 
-![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)
+[![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)](https://github.com/ufukty/ball-and-stick-man)
