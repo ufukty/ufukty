@@ -10,7 +10,7 @@ Those are some of the projects I done for school over the years.
 
 [![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)](https://github.com/ufukty/doi)
 
-### TicTacToe AI (2018)
+### TicTacToe AI (2017)
 [Details](https://github.com/ufukty/TicTacToe-AI)
 
 [![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)](https://github.com/ufukty/TicTacToe-AI)
