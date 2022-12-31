@@ -1,6 +1,6 @@
 ![Coding SMIL for a while](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg)
 
-[Don't let SMIL to die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
+[Don't let SMIL die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
 
 ## Public projects
 
