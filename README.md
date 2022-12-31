@@ -1,3 +1,16 @@
+![Coding SMIL for a while](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg)
+
+[Don't let SMIL to die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
+
+## Public projects
+
+- [ovpn-auth](https://github.com/ufukty/ovpn-auth)  
+  Basic authentication for OpenVPN server; supports time-based one-time-pads as well as password check and uses argon2 for hashes.
+- [go-argon2](https://github.com/ufukty/go-argon2)  
+  Dockerfile to start using libargon2 and Go bindings quickly
+
+## School projects
+
 Those are some of the projects I done for school over the years.
 
 ### Reddit Galaxy (2021)
