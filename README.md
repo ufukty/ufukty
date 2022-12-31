@@ -11,29 +11,26 @@
 
 ## School projects
 
-Those are some of the projects I done for school over the years.
+### [Reddit Galaxy (2021)](https://github.com/ufukty/reddit-galaxy)
 
-### Reddit Galaxy (2021)
-
-Made with Apache Spark, Python, matplotlib
-[Details](https://github.com/ufukty/reddit-galaxy)
+Connection of subreddits represented with shared links between them. Linker end is orange, linked end is blue. Made with Apache Spark, Python, matplotlib
 
 [![Output of reddit-galaxy project](https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg)](https://github.com/ufukty/reddit-galaxy)
+  
+### [Diffusion of Innovation simulation (2020)](https://github.com/ufukty/doi)  
 
-### Diffusion of Innovation simulation (2020)
-Made with Python, matplotlib, NetworkX
-[Details](https://github.com/ufukty/doi)
+Diffusion of a fake innovation is inspected in different community types while members promote from initial state to confirmation through 6 other states; s-curve on adoption and the role of higher-degree nodes are observed. Made with Python, matplotlib, NetworkX
 
 [![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)](https://github.com/ufukty/doi)
 
-### TicTacToe AI (2017)
-Made with Visual C++
-[Details](https://github.com/ufukty/TicTacToe-AI)
+### [TicTacToe AI (2017)](https://github.com/ufukty/TicTacToe-AI)  
+
+Compete against the computer that counts all possible moves except those pruned with Alpha-Beta technique. Made with Visual C++
 
 [![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)](https://github.com/ufukty/TicTacToe-AI)
 
-### ball-and-stick-man (2016)
-Made with C++, OpenGL (GLUT)
-[Details](https://github.com/ufukty/ball-and-stick-man)
+### [ball-and-stick-man (2016)](https://github.com/ufukty/ball-and-stick-man)  
+
+Basic functionality, move camera, arms, waive etc. Made with C++, OpenGL (GLUT)
 
 [![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)](https://github.com/ufukty/ball-and-stick-man)
