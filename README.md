@@ -1,4 +1,4 @@
-![Coding SMIL for a while](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg)
+![A SVG animated with SMIL](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg)
 
 [Don't let SMIL die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
 
@@ -31,6 +31,6 @@ Compete against the computer that counts all possible moves except those pruned 
 
 ### [ball-and-stick-man (2016)](https://github.com/ufukty/ball-and-stick-man)  
 
-Basic functionality, move camera, arms, waive etc. Made with C++, OpenGL (GLUT)
+Basic functionality, move camera, arms, touring, waving etc. Made with C++, OpenGL (GLUT)
 
 [![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)](https://github.com/ufukty/ball-and-stick-man)
