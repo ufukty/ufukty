@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg" width="500px">
+![An SVG of profile owner's name showcasing SMIL animations](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg)
 
 [Don't let SMIL die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
 
