@@ -1,7 +1,7 @@
 <svg width="1240px" height="510px" viewBox="0 0 124 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(-2.000000, 0.000000)">
-            <g id="Outline" transform="translate(16.190819, 1.555501)" fill-rule="nonzero" stroke="#FF4200" stroke-linejoin="bevel" stroke-width="0.5">
+            <g id="Outline" transform="translate(16.190819, 1.555501)" fill-rule="nonzero" stroke="#273C3E" stroke-linejoin="bevel" stroke-width="0.5">
                 <g>
                     <animateTransform attributeName="transform" type="translate" values=" 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1;  0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1" dur="1000ms" repeatCount="indefinite"></animateTransform>
                     <path d="M18.376873,11.8524757 C18.8347631,13.2967977 18.9164285,14.9522301 18.6758242,16.6782548 L18.535772,29.2607446 L14.940779,29.2607446 L15.0089928,25.3380332 C12.821215,28.3086781 9.95493954,30.542824 6.90159446,31.164718 C4.55802665,31.5660362 2.82920069,31.1400745 1.68719082,30.1937162 C0.470942276,29.1858379 -0.14261725,27.54878 0.0281131689,25.4142666 C0.277963386,22.2905782 2.40873118,17.396027 6.27011634,14.0468445 L8.85078995,16.3404982 C6.21792376,19.0248362 3.82140194,23.1414678 3.61665227,25.7012982 C3.55277813,26.4998683 3.60092896,27.1323814 4.00425381,27.4748538 C4.41437974,27.823101 5.09846307,27.8244815 6.00753696,27.6699536 C7.98090673,27.3345126 9.86642533,25.9383066 11.4147175,24.105415 C13.1495498,22.0516943 14.4632993,19.4293447 14.978113,16.9669832 L15.0146843,12.2283317 L18.376873,11.8524757 Z" id="Path"></path>
@@ -12,7 +12,7 @@
                 </g>
             </g>
             <g transform="translate(17.990568, 6.000000)">
-                <g id="Shade" stroke="#D7FF00" stroke-width="2">
+                <g id="Shade" stroke="#3E8165" stroke-width="2">
                     <animateTransform attributeName="transform" type="translate" values="0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1;  0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.1" dur="1000ms" repeatCount="indefinite"></animateTransform>
                     <g>
                         <path d="M4.50943209,12 C-0.618902179,17.806668 -2.3270291,26.1620881 4.50943209,25 C11.3458933,23.8379119 16.209955,13.8024855 15.0094321,8.5 L15.0094321,23" id="Path-2" stroke-linecap="square" stroke-linejoin="bevel"></path>
@@ -42,7 +42,7 @@
                 </g>
             </g>
             <g transform="translate(16.990568, 5.000000)">
-                <g id="Foreground" stroke="#6E00FF" stroke-width="2">
+                <g id="Foreground" stroke="#00FFB1" stroke-width="2">
                     <animateTransform attributeName="transform" type="translate" values="0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.1; 0.0, 0.1; 0.0, 0.1; 0.0, 0.0; 0.1, 0.0; 0.1, 0.0; 0.0, 0.1" dur="1000ms" repeatCount="indefinite"></animateTransform>
                     <g stroke-dasharray="100">
                         <path stroke-dashoffset="100" pathLength="100" d="M4.50943209,12 C-0.618902179,17.806668 -2.3270291,26.1620881 4.50943209,25 C11.3458933,23.8379119 16.209955,13.8024855 15.0094321,8.5 L15.0094321,23" stroke-linecap="square" stroke-linejoin="bevel">
@@ -117,7 +117,7 @@
                     </g>
                 </g>
             </g>
-            <g id="Vibe" transform="translate(2.500000, 4.000000)" stroke="#6E00FF" stroke-width="0.6" stroke-dasharray="40 10">
+            <g id="Vibe" transform="translate(2.500000, 4.000000)" stroke="#3E8165" stroke-width="0.6" stroke-dasharray="40 10">
                 <path pathLength="100" d="M39,32 C36.4088889,33.9288889 33.2351852,35.3546296 28,35" id="Path-47">
                     <animateTransform attributeName="transform" type="rotate" values="-0.3 11 06; 0.3 09 09; -0.3 02 99" dur="500ms" repeatCount="indefinite"></animateTransform>
                 </path>
