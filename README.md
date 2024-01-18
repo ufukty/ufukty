@@ -11,7 +11,7 @@
 -   JavaScript, TypeScript [VSCode Extension "Dim"](https://github.com/ufukty/dim)
 -   HTML, CSS [Animation Optimizations](https://github.com/ufukty/css-animations-limitations-suggestions), SVG SMIL
 -   Terraform [Open PR](https://github.com/hashicorp/terraform/pull/29127), Packer [PR](https://github.com/hashicorp/packer/pull/10093), Vagrant, Ansible (DigitalOcean)
--   PHP
+-   PHP [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media)
 -   C++ [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI), [GLUT project](https://github.com/ufukty/ball-and-stick-man)
 -   C
 
