@@ -19,7 +19,7 @@
 
 ### [Dim](https://github.com/ufukty/dim)
 
-![Logo of Dim](https://github.com/ufukty/dim/raw/main/media/icon.png)
+[![Logo of Dim](https://github.com/ufukty/dim/raw/main/media/icon.png)](https://github.com/ufukty/dim)
 
 A VS Code extension for dimming repeating text in source code to highlight main logic
 
@@ -54,3 +54,7 @@ Compete against the computer that counts all possible moves except those pruned 
 Basic functionality, move camera, arms, touring, waving etc. Made with C++, OpenGL (GLUT)
 
 [![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)](https://github.com/ufukty/ball-and-stick-man)
+
+### [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media)
+
+[![screen capture of poor man's social media project](https://github.com/ufukty/poor-man-s-social-media/raw/main/assets/screencapture.gif)](https://github.com/ufukty/poor-man-s-social-media)
