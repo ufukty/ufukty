@@ -19,7 +19,7 @@
 
 ### [gonfique](https://github.com/ufukty/gonfique)
 
-[![Logo of gonfique](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)
+[![Logo of gonfique](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)](https://github.com/ufukty/gonfique)
 
 A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
 
