@@ -21,7 +21,7 @@
 
 [![Logo of gonfique](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)
 
-A CLI tool for Go developers to automatically build exact struct definitions that will be match the provided YAML config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
+A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
 
 ### [Dim](https://github.com/ufukty/dim)
 
