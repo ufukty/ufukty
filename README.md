@@ -61,6 +61,6 @@ Basic functionality, move camera, arms, touring, waving etc. Made with C++, Open
 
 [![footage for ball-and-stick-man project](https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif)](https://github.com/ufukty/ball-and-stick-man)
 
-### [Poor Man's Social Media (2016)](https://github.com/ufukty/poor-man-s-social-media)
+### [Poor Man's Social Media (2016,2024)](https://github.com/ufukty/poor-man-s-social-media)
 
 [![screen capture of poor man's social media project](https://github.com/ufukty/poor-man-s-social-media/raw/main/assets/screencapture.gif)](https://github.com/ufukty/poor-man-s-social-media)
