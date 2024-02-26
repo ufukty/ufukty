@@ -19,13 +19,13 @@
 
 ### [gonfique](https://github.com/ufukty/gonfique)
 
-[![Logo of gonfique](https://github.com/ufukty/gonfique/raw/main/assets/Gonfique@400w.png)](https://github.com/ufukty/gonfique)
+<a href="https://github.com/ufukty/gonfique"><img src="https://github.com/ufukty/gonfique/raw/dev/assets/Gonfique.png" attr="Logo of gonfique" height="200px"></a>
 
 A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
 
 ### [Dim](https://github.com/ufukty/dim)
 
-[![Logo of Dim](https://github.com/ufukty/dim/raw/main/media/icon.png)](https://github.com/ufukty/dim)
+<a href="https://github.com/ufukty/dim"><img src="https://github.com/ufukty/dim/raw/main/media/icon.png" attr="Logo of Dim" height="200px"></a>
 
 A VS Code extension for dimming repeating text in source code to highlight main logic
 
