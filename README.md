@@ -1,5 +1,4 @@
-![An SVG of profile owner's name showcasing SMIL animations](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.svg#gh-light-mode-only)
-![An SVG of profile owner's name showcasing SMIL animations (dark mode version)](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.dark.svg#gh-dark-mode-only)
+![An SVG of profile owner's name showcasing SMIL animations](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.dark.svg)
 
 [Don't let SMIL die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
 
