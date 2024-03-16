@@ -1,13 +1,27 @@
 ## Experienced Tools
 
--   Go [gonfique](https://github.com/ufukty/gonfique) [OpenVPN authorization](https://github.com/ufukty/ovpn-auth) [Testing crypto/argon2](https://github.com/ufukty/testing-go-crypto-argon2)
--   Python (Matplotlib, NetworkX) [Agent based network simulation: "Diffusion of Innovation"](https://github.com/ufukty/diffusion-of-innovation), [Network visualization](https://github.com/ufukty/reddit-galaxy), [Open PR](https://github.com/matplotlib/matplotlib/pull/19286), [Visualization: "SO Survey"](https://github.com/ufukty/language-survey-review)
+-   Go
+    - [gonfique](https://github.com/ufukty/gonfique) Config type mapping generator
+    - [ovpn-auth](https://github.com/ufukty/ovpn-auth) OpenVPN authorization agent
+    - [authenticity-test-go-crypto-argon2](https://github.com/ufukty/authenticity-test-go-crypto-argon2) Testing authenticity of Go's argon2 by comparing hashes with Go bindings of C implementation
+-   Python (Matplotlib, NetworkX)
+    -   [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) An agent based network simulation visualizing diffusion process of an innovation to observe S-curve and impact of higher-degree nodes on the process
+    -   [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) Network visualization
+    -   [StackOverflow Survey](https://github.com/ufukty/language-survey-review) Data visualization
+    -   [PR](https://github.com/matplotlib/matplotlib/pull/19286) for enabling matplotlib to draw gradient colored lines
 -   Bash, Make, Docker
--   JavaScript, TypeScript [VSCode Extension "Dim"](https://github.com/ufukty/dim)
--   HTML, CSS [Animation Optimizations](https://github.com/ufukty/css-animations-limitations-suggestions), SVG SMIL
--   Terraform [Open PR](https://github.com/hashicorp/terraform/pull/29127), Packer [PR](https://github.com/hashicorp/packer/pull/10093), Vagrant, Ansible (DigitalOcean)
--   PHP [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media)
--   C++ [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI), [GLUT project](https://github.com/ufukty/ball-and-stick-man)
+-   JavaScript, TypeScript 
+    - [Dim](https://github.com/ufukty/dim) VSCode Extension that dims parts of source code matching user-provided patterns
+-   HTML, CSS, SVG SMIL
+    - [css-animations-limitations-suggestions](https://github.com/ufukty/css-animations-limitations-suggestions)
+-   Terraform, Packer, Vagrant, Ansible (DigitalOcean)
+    - [PR](https://github.com/hashicorp/terraform/pull/29127) for enabling Terraform users to encode and decode base32 strings
+    - [PR](https://github.com/hashicorp/packer/pull/10093) for enabling Packer users to direct the provisioner to connect over private IP of droplet
+-   PHP
+    - [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) Frontend and backend for simple social media platform
+-   C++
+    - [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Play TicTacToe against computer, optimized with alpha-beta pruning
+    - [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) a GLUT homework
 -   C
 
 ## Showcase
