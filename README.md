@@ -1,7 +1,18 @@
+## Bio
+
+- **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
+  My thesis is about searching for and sharing of problems encountered on using genetic programming to find/produce Go programs
+  [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
+- **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
+
+## Contact
+
+- [LinkedIn](https://ufukty.com)
+
 ## Experienced Tools
 
 -   Go
-    - [gonfique](https://github.com/ufukty/gonfique) Config type mapping generator
+    - [gonfique](https://github.com/ufukty/gonfique) Type definition generator for YAML config files
     - [ovpn-auth](https://github.com/ufukty/ovpn-auth) OpenVPN authorization agent
     - [authenticity-test-go-crypto-argon2](https://github.com/ufukty/authenticity-test-go-crypto-argon2) Testing authenticity of Go's argon2 by comparing hashes with Go bindings of C implementation
 -   Python (Matplotlib, NetworkX)
