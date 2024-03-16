@@ -1,7 +1,7 @@
 ## Bio
 
 - **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
-  My thesis is about searching for and sharing of problems encountered on using genetic programming to find/produce Go programs
+  My thesis is about searching for problems encountered on using genetic programming to find/produce Go programs
   [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
 - **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
