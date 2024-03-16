@@ -1,7 +1,3 @@
-![An SVG of profile owner's name showcasing SMIL animations](https://raw.githubusercontent.com/ufukty/ufukty/main/smil.dark.svg)
-
-[Don't let SMIL die](https://groups.google.com/a/chromium.org/g/blink-dev/c/5o0yiO440LM/m/YGEJBsjUAwAJ)
-
 ## Experienced Tools
 
 -   Go [gonfique](https://github.com/ufukty/gonfique) [OpenVPN authorization](https://github.com/ufukty/ovpn-auth) [Testing crypto/argon2](https://github.com/ufukty/testing-go-crypto-argon2)
