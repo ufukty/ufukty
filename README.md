@@ -69,12 +69,6 @@ Diffusion of a fake innovation is inspected in different community types while m
 
 [![Footage for doi project](https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif)](https://github.com/ufukty/doi)
 
-### [TicTacToe AI (2017)](https://github.com/ufukty/TicTacToe-AI)
-
-Compete against the computer that counts all possible moves except those pruned with Alpha-Beta technique. Made with Visual C++
-
-[![Footage for TicTacToe-AI project](https://github.com/ufukty/TicTacToe-AI/raw/master/img/TicTacToe.gif)](https://github.com/ufukty/TicTacToe-AI)
-
 ### [ball-and-stick-man (2016)](https://github.com/ufukty/ball-and-stick-man)
 
 Basic functionality, move camera, arms, touring, waving etc. Made with C++, OpenGL (GLUT)
