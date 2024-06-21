@@ -16,7 +16,7 @@
     -   [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) Network visualization
     -   [StackOverflow Survey](https://github.com/ufukty/language-survey-review) Data visualization
     -   [PR](https://github.com/matplotlib/matplotlib/pull/19286) for enabling matplotlib to draw gradient colored lines
--   Bash, Make, Docker
+-   Bash, Make
 -   JavaScript, TypeScript 
     - [Dim](https://github.com/ufukty/dim) VSCode Extension that dims parts of source code matching user-provided patterns
 -   HTML, CSS, SVG SMIL
