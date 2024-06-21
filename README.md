@@ -5,10 +5,6 @@
   [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
 - **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
-## Contact
-
-- [LinkedIn](https://ufukty.com)
-
 ## Experienced Tools
 
 -   Go
