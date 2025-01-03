@@ -7,7 +7,7 @@
 
 ## Contact
 
-I am open to consider offers where the requirements match my projects fully or partially. Don't hesitate to send me an email from **your company account**. I will reply shortly after I check the company's public record.
+I am open to considering offers where the requirements match my projects fully or partially. Don't hesitate to send me an email using **your company account**. I will respond shortly after reviewing the company's public profile.
 
 ## Experienced Tools
 
