@@ -12,7 +12,7 @@ I am open to considering offers where the requirements match my projects fully o
 ## Experienced Tools
 
 - Go
-  - [gonfique](https://github.com/ufukty/gonfique) Type definition generator for YAML config files
+  - [Gonfique](https://github.com/ufukty/gonfique) Special kind of YAML-to-Go and JSON-to-Go that works offline and provides customization options developers need on defining mapping types for config files that its parts needs to be passed to other utilities
   - [ovpn-auth](https://github.com/ufukty/ovpn-auth) OpenVPN authorization agent
   - [authenticity-test-go-crypto-argon2](https://github.com/ufukty/authenticity-test-go-crypto-argon2) Testing authenticity of Go's argon2 by comparing hashes with Go bindings of C implementation
 - Python (Matplotlib, NetworkX)
@@ -22,6 +22,7 @@ I am open to considering offers where the requirements match my projects fully o
   - [PR](https://github.com/matplotlib/matplotlib/pull/19286) for enabling matplotlib to draw gradient colored lines
 - Bash, Make
 - JavaScript, TypeScript
+  - [Gonfique Playground](https://github.com/ufukty/gonfique-playground) A web app brings Gonfique to browsers with support of Monaco editor and Go WASM
   - [Dim](https://github.com/ufukty/dim) VSCode Extension that dims parts of source code matching user-provided patterns
 - HTML, CSS, SVG SMIL
   - [css-animations-limitations-suggestions](https://github.com/ufukty/css-animations-limitations-suggestions)
@@ -37,11 +38,17 @@ I am open to considering offers where the requirements match my projects fully o
 
 ## Showcase
 
-### [gonfique](https://github.com/ufukty/gonfique)
+### [Gonfique Playground](https://github.com/ufukty/gonfique-playground)
+
+<a href="https://github.com/ufukty/gonfique-playground"><img src="https://github.com/ufukty/gonfique-playground/raw/main/assets/screenshot.png" attr="Screenshot of Gonfique Playground"></a>
+
+Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers a extremely reactive environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Works offline.
+
+### [Gonfique](https://github.com/ufukty/gonfique)
 
 <a href="https://github.com/ufukty/gonfique"><img src="https://github.com/ufukty/gonfique/raw/main/assets/Gonfique.png" attr="Logo of gonfique" height="200px"></a>
 
-A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
+A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML and JSON config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
 
 ### [Dim](https://github.com/ufukty/dim)
 
