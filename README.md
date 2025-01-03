@@ -5,6 +5,10 @@
   [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
 - **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
+## Contact
+
+I am open to consider offers where the requirements match my projects fully or partially. Don't hesitate to send me an email from **your company account**. I will reply shortly after I check the company's public record.
+
 ## Experienced Tools
 
 - Go
