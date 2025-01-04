@@ -12,28 +12,25 @@ I am open to considering offers where the requirements match my projects fully o
 ## Experienced Tools
 
 - Go
-  - [Gonfique](https://github.com/ufukty/gonfique) Special kind of YAML-to-Go and JSON-to-Go that works offline and provides customization options developers need on defining mapping types for config files that its parts needs to be passed to other utilities
-  - [ovpn-auth](https://github.com/ufukty/ovpn-auth) OpenVPN authorization agent
+  - [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go to produce Go code from YAML or JSON file
+  - [ovpn-auth](https://github.com/ufukty/ovpn-auth) Easy to deploy OpenVPN authorization agent written in Go works offline
   - [authenticity-test-go-crypto-argon2](https://github.com/ufukty/authenticity-test-go-crypto-argon2) Testing authenticity of Go's argon2 by comparing hashes with Go bindings of C implementation
 - Python (Matplotlib, NetworkX)
-  - [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) An agent based network simulation visualizing diffusion process of an innovation to observe S-curve and impact of higher-degree nodes on the process
-  - [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) Network visualization
-  - [StackOverflow Survey](https://github.com/ufukty/language-survey-review) Data visualization
+  - [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) Written in Python with NetworkX and uses Matplotlib's pyplot
+  - [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) Written in Python with NetworkX and uses Matplotlib's pyplot. Processes the dataset with Scala
   - [PR](https://github.com/matplotlib/matplotlib/pull/19286) for enabling matplotlib to draw gradient colored lines
 - Bash, Make
 - JavaScript, TypeScript
-  - [Gonfique Playground](https://github.com/ufukty/gonfique-playground) A web app brings Gonfique to browsers with support of Monaco editor and Go WASM
-  - [Dim](https://github.com/ufukty/dim) VSCode Extension that dims parts of source code matching user-provided patterns
-- HTML, CSS, SVG SMIL
-  - [css-animations-limitations-suggestions](https://github.com/ufukty/css-animations-limitations-suggestions)
+  - [Gonfique Playground](https://github.com/ufukty/gonfique-playground) Written in TypeScript and compiled to JavaScript via Vite to provide Gonfique users Monaco based extremely reactive development environment by regenerating the output at each keystroke through a Go program compiled to Web Assembly works offline in browser
+  - [Dim](https://github.com/ufukty/dim) Visual Studio Code extension written in TypeScript
 - Terraform, Packer, Vagrant, Ansible (DigitalOcean)
   - [PR](https://github.com/hashicorp/terraform/pull/29127) for enabling Terraform users to encode and decode base32 strings
   - [PR](https://github.com/hashicorp/packer/pull/10093) for enabling Packer users to direct the provisioner to connect over private IP of droplet
 - PHP
-  - [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) Frontend and backend for simple social media platform
+  - [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) Written in PHP to process API requests happened as AJAX and to serve a simple frontend provides simple frontend interactivity through JavaScript
 - C++
-  - [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Play TicTacToe against computer, optimized with alpha-beta pruning
-  - [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) a GLUT homework
+  - [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Written in C++ and implements alpha-beta prunining
+  - [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) Written in C++ with GLUT
 - C
 
 ## Showcase
@@ -48,7 +45,7 @@ Gonfique Playground brings Gonfique to browsers. It is a web app that works on M
 
 <a href="https://github.com/ufukty/gonfique"><img src="https://github.com/ufukty/gonfique/raw/main/assets/Gonfique.png" attr="Logo of gonfique" height="200px"></a>
 
-A CLI tool for Go developers to automatically build exact struct definitions that will match the provided YAML and JSON config. Designed to get all config accesses under type check. Makes breaking changes instant to notice when and where they happen.
+Special kind of YAML-to-Go and JSON-to-Go that works offline and provides customization options developers need on defining mapping types for config files that its parts needs to be passed to other utilities
 
 ### [Dim](https://github.com/ufukty/dim)
 
