@@ -56,7 +56,7 @@ I am open to considering offers where the requirements match my projects fully o
 
 <a href="https://github.com/ufukty/gonfique-playground"><img class="ufukty-card" src="assets/gp.png" attr="Screenshot of Gonfique Playground"></a>
 
-Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers a extremely reactive environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Still works offline.
+Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers an extremely reactive development environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Still works offline.
 
 ### [Gonfique](https://github.com/ufukty/gonfique)
 
