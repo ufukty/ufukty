@@ -1,7 +1,7 @@
 ## Bio
 
 - **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
-  My thesis is about searching for problems encountered on using genetic programming to find/produce Go programs
+  My thesis is about problems I've discovered on using genetic programming for synthesizing Go programs out of unit tests and couple suggestions for dealing with them
   [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
 - **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
@@ -36,19 +36,19 @@ I am open to considering offers where the requirements match my projects fully o
 
 <a href="https://github.com/ufukty/gonfique-playground"><img src="https://github.com/ufukty/gonfique-playground/raw/main/assets/screenshot.png" attr="Screenshot of Gonfique Playground"></a>
 
-Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers a extremely reactive environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Works offline.
+Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers a extremely reactive environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Still works offline.
 
 ### [Gonfique](https://github.com/ufukty/gonfique)
 
 <a href="https://github.com/ufukty/gonfique"><img src="https://github.com/ufukty/gonfique/raw/main/assets/Gonfique.png" attr="Logo of gonfique" height="200px"></a>
 
-Special kind of YAML-to-Go and JSON-to-Go that works offline and provides customization options developers need on defining mapping types for config files that its parts needs to be passed to other utilities
+Offline and customizable YAML and JSON to Go for those who are not satisfied with the most popular [Mholt's JSON-to-Go](https://mholt.github.io/json-to-go/). Pre-alpha of 2nd version brings new features like overriding resolved type expression, implementing struct iterators, providing option between struct and map representation for JSON/YAML objects, assigning parent refs on nodes; and improves existing features like auto generated type names by picking the shortest semantically correct name that doesn't collide with others, importing external packages for type replacement.
 
 ### [Dim](https://github.com/ufukty/dim)
 
 <a href="https://github.com/ufukty/dim"><img src="https://github.com/ufukty/dim/raw/main/media/icon.png" attr="Logo of Dim" height="200px"></a>
 
-A VS Code extension for dimming repeating text in source code to highlight main logic
+A Visual Studio Code extension that reduces the opacity of matching statements and expressions to make the main logic pop. Intended for pushing the Go's error wrapping blocks and JS's logging lines to a little behind.
 
 ### [ovpn-auth](https://github.com/ufukty/ovpn-auth)
 
