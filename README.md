@@ -62,7 +62,7 @@ Gonfique Playground brings Gonfique to browsers. It is a web app that works on M
 
 <a href="https://github.com/ufukty/gonfique"><img class="ufukty-card cast-shadow" src="https://repository-images.githubusercontent.com/750442099/315b36fc-bada-4ba1-a2cf-d2001f4079be" alt="Gonfique logo"></a>
 
-Offline and customizable YAML and JSON to Go for those who are not satisfied with the most popular <a href="https://mholt.github.io/json-to-go" target="_blank">Mholt's JSON-to-Go</a>. Pre-alpha of 2nd version brings new features like overriding resolved type expression, implementing struct iterators, providing option between struct and map representation for JSON/YAML objects, assigning parent refs on nodes; and improves existing features like auto generated type names by picking the shortest semantically correct name that doesn't collide with others, importing external packages for type replacement.
+Offline and customizable YAML and JSON to Go for those who are not satisfied with the most popular [Mholt's JSON-to-Go](https://mholt.github.io/json-to-go/). Pre-alpha of 2nd version brings new features like overriding resolved type expression, implementing struct iterators, providing option between struct and map representation for JSON/YAML objects, assigning parent refs on nodes; and improves existing features like auto generated type names by picking the shortest semantically correct name that doesn't collide with others, importing external packages for type replacement.
 
 ### [Dim](https://github.com/ufukty/dim)
 
