@@ -60,13 +60,13 @@ Gonfique Playground brings Gonfique to browsers. It is a web app that works on M
 
 ### [Gonfique](https://github.com/ufukty/gonfique)
 
-<a href="https://github.com/ufukty/gonfique"><img style="border-radius: 12px;" src="https://repository-images.githubusercontent.com/750442099/315b36fc-bada-4ba1-a2cf-d2001f4079be" alt="Gonfique logo"></a>
+<a href="https://github.com/ufukty/gonfique"><img class="ufukty-card cast-shadow" src="https://repository-images.githubusercontent.com/750442099/315b36fc-bada-4ba1-a2cf-d2001f4079be" alt="Gonfique logo"></a>
 
 Offline and customizable YAML and JSON to Go for those who are not satisfied with the most popular <a href="https://mholt.github.io/json-to-go" target="_blank">Mholt's JSON-to-Go</a>. Pre-alpha of 2nd version brings new features like overriding resolved type expression, implementing struct iterators, providing option between struct and map representation for JSON/YAML objects, assigning parent refs on nodes; and improves existing features like auto generated type names by picking the shortest semantically correct name that doesn't collide with others, importing external packages for type replacement.
 
 ### [Dim](https://github.com/ufukty/dim)
 
-<a href="https://github.com/ufukty/dim"><img style="border-radius: 12px;" src="https://repository-images.githubusercontent.com/637051248/4f381212-7660-415d-abd6-e7d04454b04f" alt="Dim logo"></a>
+<a href="https://github.com/ufukty/dim"><img class="ufukty-card cast-shadow" src="https://repository-images.githubusercontent.com/637051248/4f381212-7660-415d-abd6-e7d04454b04f" alt="Dim logo"></a>
 
 A Visual Studio Code extension that reduces the opacity of matching statements and expressions to make the main logic pop. Intended for pushing the Go's error wrapping blocks and JS's logging lines to a little behind.
 
@@ -78,20 +78,20 @@ Basic authentication for OpenVPN server; supports time-based one-time-pads as we
 
 Connection of subreddits represented with shared links between them. Linker end is orange, linked end is blue. Made with Apache Spark, Python, matplotlib
 
-<a href="https://github.com/ufukty/reddit-galaxy"><img style="border-radius: 12px;" src="https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg" alt="reddit galaxy"></a>
+<a href="https://github.com/ufukty/reddit-galaxy"><img class="ufukty-card cast-shadow" src="https://github.com/ufukty/reddit-galaxy/raw/main/images/post-processed-1x-cg.jpg" alt="reddit galaxy"></a>
 
 ### [Diffusion of Innovation simulation (2020)](https://github.com/ufukty/diffusion-of-innovation)
 
 Diffusion of a fake innovation is inspected in different community types while members promote from initial state to confirmation through 6 other states; s-curve on adoption and the role of higher-degree nodes are observed. Made with Python, matplotlib, NetworkX
 
-<a href="https://github.com/ufukty/doi"><img style="border-radius: 12px;" src="https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif" alt="diffusion of innovation project screen capture"></a>
+<a href="https://github.com/ufukty/doi"><img class="ufukty-card cast-shadow" src="https://github.com/ufukty/doi/raw/main/images/scale_free_n_5000_a_098.gif" alt="diffusion of innovation project screen capture"></a>
 
 ### [ball-and-stick-man (2016)](https://github.com/ufukty/ball-and-stick-man)
 
 Basic functionality, move camera, arms, touring, waving etc. Made with C++, OpenGL (GLUT)
 
-<a href="https://github.com/ufukty/ball-and-stick-man"><img style="border-radius: 12px;" src="https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif" alt="footage for ball-and-stick-man project"></a>
+<a href="https://github.com/ufukty/ball-and-stick-man"><img class="ufukty-card cast-shadow" src="https://github.com/ufukty/ball-and-stick-man/raw/main/img/footage.gif" alt="footage for ball-and-stick-man project"></a>
 
 ### [Poor Man's Social Media (2016,2024)](https://github.com/ufukty/poor-man-s-social-media)
 
-<a href="https://github.com/ufukty/poor-man-s-social-media"><img style="border-radius: 12px;" src="https://github.com/ufukty/poor-man-s-social-media/raw/main/assets/screencapture.gif" alt="screen capture of poor man's social media project"></a>
+<a href="https://github.com/ufukty/poor-man-s-social-media"><img class="ufukty-card cast-shadow" src="https://github.com/ufukty/poor-man-s-social-media/raw/main/assets/screencapture.gif" alt="screen capture of poor man's social media project"></a>
