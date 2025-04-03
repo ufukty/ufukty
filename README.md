@@ -32,41 +32,21 @@ I am open to considering offers where the requirements match my projects fully o
 
 ## Showcase
 
-<style>
-.ufukty-card {
-    transition: all 160ms ease-out;
-    border-radius: 12px; 
-
-    &:hover {
-        transform: scale(1.01);
-        filter: brightness(1.1);
-    }
-
-    &.cast-shadow {
-        box-shadow: 0 20px 40px #8884, 0 10px 10px #8884, 0 5px 4px -2px #8884;
-
-        &:hover {
-            box-shadow: 0 30px 50px #8884, 0 20px 24px #8884, 0 10px 12px #8884;
-        }
-    }
-}
-</style>
-
 ### [Gonfique Playground](https://github.com/ufukty/gonfique-playground)
 
-<a href="https://github.com/ufukty/gonfique-playground"><img class="ufukty-card" src="assets/gp.png" attr="Screenshot of Gonfique Playground"></a>
+[![Screenshot of Gonfique Playground](assets/gp.png)](https://github.com/ufukty/gonfique-playground)
 
 Gonfique Playground brings Gonfique to browsers. It is a web app that works on Monaco editor and Golang WASM to give developers an extremely reactive development environment where they can see the result of their changes in input file and Gonfique config in real time. The project is written in TypeScript and built with Vite to static files. Still works offline.
 
 ### [Gonfique](https://github.com/ufukty/gonfique)
 
-<a href="https://github.com/ufukty/gonfique"><img class="ufukty-card cast-shadow" src="assets/gonfique.png" alt="Gonfique logo"></a>
+[![Gonfique logo](assets/gonfique.png)](https://github.com/ufukty/gonfique)
 
 Offline and customizable YAML and JSON to Go for those who are not satisfied with the most popular [Mholt's JSON-to-Go](https://mholt.github.io/json-to-go/). Pre-alpha of 2nd version brings new features like overriding resolved type expression, implementing struct iterators, providing option between struct and map representation for JSON/YAML objects, assigning parent refs on nodes; and improves existing features like auto generated type names by picking the shortest semantically correct name that doesn't collide with others, importing external packages for type replacement.
 
 ### [Dim](https://github.com/ufukty/dim)
 
-<a href="https://github.com/ufukty/dim"><img class="ufukty-card cast-shadow" src="assets/dim.png" alt="Dim logo"></a>
+[![Dim logo](assets/dim.png)](https://github.com/ufukty/dim)
 
 A Visual Studio Code extension that reduces the opacity of matching statements and expressions to make the main logic pop. Intended for pushing the Go's error wrapping blocks and JS's logging lines to a little behind.
 
@@ -78,20 +58,20 @@ Basic authentication for OpenVPN server; supports time-based one-time-pads as we
 
 Connection of subreddits represented with shared links between them. Linker end is orange, linked end is blue. Made with Apache Spark, Python, matplotlib
 
-<a href="https://github.com/ufukty/reddit-galaxy"><img class="ufukty-card cast-shadow" src="assets/reddit-galaxy.jpg" alt="reddit galaxy"></a>
+[![reddit galaxy](assets/reddit-galaxy.jpg)](https://github.com/ufukty/reddit-galaxy)
 
 ### [Diffusion of Innovation simulation (2020)](https://github.com/ufukty/diffusion-of-innovation)
 
 Diffusion of a fake innovation is inspected in different community types while members promote from initial state to confirmation through 6 other states; s-curve on adoption and the role of higher-degree nodes are observed. Made with Python, matplotlib, NetworkX
 
-<a href="https://github.com/ufukty/doi"><img class="ufukty-card cast-shadow" src="assets/doi.gif" alt="diffusion of innovation project screen capture"></a>
+[![diffusion of innovation project screen capture](assets/doi.gif)](https://github.com/ufukty/doi)
 
 ### [ball-and-stick-man (2016)](https://github.com/ufukty/ball-and-stick-man)
 
 Basic functionality, move camera, arms, touring, waving etc. Made with C++, OpenGL (GLUT)
 
-<a href="https://github.com/ufukty/ball-and-stick-man"><img class="ufukty-card cast-shadow" src="assets/ball-and-stick.gif" alt="footage for ball-and-stick-man project"></a>
+[![footage for ball-and-stick-man project](assets/ball-and-stick.gif)](https://github.com/ufukty/ball-and-stick-man)
 
 ### [Poor Man's Social Media (2016,2024)](https://github.com/ufukty/poor-man-s-social-media)
 
-<a href="https://github.com/ufukty/poor-man-s-social-media"><img class="ufukty-card cast-shadow" src="assets/social.gif" alt="screen capture of poor man's social media project"></a>
+[![screen capture of poor man's social media project](assets/social.gif)](https://github.com/ufukty/poor-man-s-social-media)
