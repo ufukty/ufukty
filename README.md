@@ -2,7 +2,7 @@
 
 - **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
   My thesis is about problems I've discovered on using genetic programming for synthesizing Go programs out of unit tests and couple suggestions for dealing with them.
-  [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW) or [check out the code behind](https://github.com/ufukty/tde).
+  [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW) or [check out the code behind](https://github.com/ufukty/tde/tree/main/app/internal/evolution).
 - **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
 ## Contact
