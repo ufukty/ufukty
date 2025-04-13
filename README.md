@@ -13,6 +13,8 @@ I am open to considering offers where the requirements match my projects fully o
 
 - Go
   - [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go that produces Go code from YAML or JSON file.
+  - [bump](https://github.com/ufukty/bump) A CLI utility that adds the next semantic version tag to a repository using `major`, `minor`, `fix` commands.
+  - [golits](https://github.com/ufukty/golits) A CLI utility to check if a Go file contains multiple occurrences of any string literal.
   - [ovpn-auth](https://github.com/ufukty/ovpn-auth) An easy-to-deploy OpenVPN authorization agent written in Go that works offline. It supports time-based one-time passwords (TOTPs) and password checks, and uses Argon2 for hashing.
 - Python
   - [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) A Python script built with NetworkX and Matplotlib’s pyplot to simulate the spread of a hypothetical innovation.
