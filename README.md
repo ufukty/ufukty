@@ -1,9 +1,9 @@
 ## Bio
 
-- **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
-   My thesis explores challenges I encountered while using genetic programming to synthesize Go programs from unit tests, as well as suggestions for addressing them.
-  [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW) or [check out the code behind](https://github.com/ufukty/tde/tree/main/app/internal/evolution).
-- **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
+-   **MSc. in Computer Engineering (2024 - Ankara University, Turkiye)**  
+     My thesis explores challenges I encountered while using genetic programming to synthesize Go programs from unit tests, as well as suggestions for addressing them.
+    [Read full thesis in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW) or [check out the code behind](https://github.com/ufukty/tde/tree/main/app/internal/evolution).
+-   **BSc. in Computer Engineering (2018 - Ankara University, Turkiye)**
 
 ## Contact
 
@@ -11,28 +11,31 @@ I am open to considering offers where the requirements match my projects fully o
 
 ## Experienced Tools
 
-- Go
-  - [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go that produces Go code from YAML or JSON file.
-  - [bump](https://github.com/ufukty/bump) A CLI utility that adds the next semantic version tag to a repository using `major`, `minor`, `fix` commands.
-  - [golits](https://github.com/ufukty/golits) A CLI utility to check if a Go file contains multiple occurrences of any string literal.
-  - [ovpn-auth](https://github.com/ufukty/ovpn-auth) An easy-to-deploy OpenVPN authorization agent written in Go that works offline. It supports time-based one-time passwords (TOTPs) and password checks, and uses Argon2 for hashing.
-- Python
-  - [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) A Python script built with NetworkX and Matplotlib’s pyplot to simulate the spread of a hypothetical innovation.
-  - [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) A Python and NetworkX project using Matplotlib’s pyplot. Processes the dataset in Scala.
-- Bash, Make
-- JavaScript, TypeScript
-  - [Gonfique Playground](https://github.com/ufukty/gonfique-playground) Written in TypeScript and compiled to JavaScript via Vite, built on Microsoft Monaco and loads a Go WASM binary.
-  - [Dim](https://github.com/ufukty/dim) A Visual Studio Code extension written in TypeScript
-- Terraform, Packer (DigitalOcean)
-  - [PR](https://github.com/hashicorp/terraform/pull/29127) for enabling Terraform users to encode and decode base32 strings
-  - [PR](https://github.com/hashicorp/packer/pull/10093) for enabling Packer users to direct the provisioner to connect over private IP of droplet
-- PHP
-  - [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) WA PHP application that processes AJAX-based API requests and serves a simple frontend with basic JavaScript interactivity.
-- C++
-  - [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Implements alpha-beta pruning for TicTacToe.
-  - [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) Written in C++ with GLUT for basic 3D character movement and interactions.
+-   Go
+    -   [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go that produces Go code from YAML or JSON file.
+    -   [bump](https://github.com/ufukty/bump) A CLI utility that adds the next semantic version tag to a repository using `major`, `minor`, `fix` commands.
+    -   [golits](https://github.com/ufukty/golits) A CLI utility to check if a Go file contains multiple occurrences of any string literal.
+    -   [ovpn-auth](https://github.com/ufukty/ovpn-auth) An easy-to-deploy OpenVPN authorization agent written in Go that works offline. It supports time-based one-time passwords (TOTPs) and password checks, and uses Argon2 for hashing.
+-   Python
+    -   [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) A Python script built with NetworkX and Matplotlib’s pyplot to simulate the spread of a hypothetical innovation.
+    -   [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) A Python and NetworkX project using Matplotlib’s pyplot. Processes the dataset in Scala.
+-   Bash, Make
+-   JavaScript, TypeScript
+    -   [Gonfique Playground](https://github.com/ufukty/gonfique-playground) Written in TypeScript and compiled to JavaScript via Vite, built on Microsoft Monaco and loads a Go WASM binary.
+    -   [Dim](https://github.com/ufukty/dim) A Visual Studio Code extension written in TypeScript
+-   Terraform, Packer (DigitalOcean)
+    -   [PR](https://github.com/hashicorp/terraform/pull/29127) for enabling Terraform users to encode and decode base32 strings
+    -   [PR](https://github.com/hashicorp/packer/pull/10093) for enabling Packer users to direct the provisioner to connect over private IP of droplet
+-   PHP
+    -   [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) WA PHP application that processes AJAX-based API requests and serves a simple frontend with basic JavaScript interactivity.
+-   C++
+    -   [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Implements alpha-beta pruning for TicTacToe.
+    -   [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) Written in C++ with GLUT for basic 3D character movement and interactions.
 
 ## Showcase
+
+<details>
+<summary>Expand</summary>
 
 ### [Gonfique Playground](https://github.com/ufukty/gonfique-playground)
 
@@ -79,3 +82,5 @@ A basic 3D demonstration with a movable camera, animated arms, a “tour” mode
 A PHP-based application that processes AJAX calls to an API and provides a straightforward frontend for user interaction with JavaScript.
 
 [![screen capture of poor man's social media project](assets/social.gif)](https://github.com/ufukty/poor-man-s-social-media)
+
+</details>
