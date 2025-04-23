@@ -12,7 +12,9 @@ I am open to considering offers where the requirements match my projects fully o
 ## Experienced Tools
 
 -   Go
+    -   [Gohandlers](https://github.com/ufukty/gohandlers) A CLI utility which generates handler helpers for parsing, building/writing and validating request and response structs; route lister; client implementation and client interface with type safety and zero reflection.
     -   [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go that produces Go code from YAML or JSON file.
+    -   [Kask](https://github.com/ufukty/kask) A static site generator supports html-markdown mixed content, hierarchical CSS code splitting, and Go template propagation.
     -   [bump](https://github.com/ufukty/bump) A CLI utility that adds the next semantic version tag to a repository using `major`, `minor`, `fix` commands.
     -   [golits](https://github.com/ufukty/golits) A CLI utility to check if a Go file contains multiple occurrences of any string literal.
     -   [ovpn-auth](https://github.com/ufukty/ovpn-auth) An easy-to-deploy OpenVPN authorization agent written in Go that works offline. It supports time-based one-time passwords (TOTPs) and password checks, and uses Argon2 for hashing.
