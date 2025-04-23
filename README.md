@@ -32,10 +32,10 @@ I am open to considering offers where the requirements match my projects fully o
     -   [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Implements alpha-beta pruning for TicTacToe.
     -   [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) Written in C++ with GLUT for basic 3D character movement and interactions.
 
-## Showcase
+## Previews
 
 <details>
-<summary>Expand</summary>
+<summary>Expand (long list)</summary>
 
 ### [Gonfique Playground](https://github.com/ufukty/gonfique-playground)
 
