@@ -35,7 +35,7 @@ I am open to considering offers where the requirements match my projects fully o
 ## Previews
 
 <details>
-<summary>Expand (long list)</summary>
+<summary>Expand (⚠️ long list)</summary>
 
 ### [Gonfique Playground](https://github.com/ufukty/gonfique-playground)
 
