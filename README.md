@@ -22,7 +22,7 @@ Smallest compiled CLI utility bumps with one command.
 
 ## Gonfique Playground
 
-[![gonfique playground](assets/gp.png)](https://github.com/ufukty/)
+[![gonfique playground](assets/gp.png)](https://github.com/ufukty/gonfique-playground)
 
 Brings Gonfique to browsers.
 
@@ -50,15 +50,15 @@ Tooling for finding test-passing Go code using Genetic Programming.
 
 Visualization of the links between subreddits.
 
-## Doi
+## Diffusion of Innovation simulation
 
-[![doi](assets/doi.gif)](https://github.com/ufukty/)
+[![doi](assets/doi.gif)](https://github.com/ufukty/diffusion-of-innovation)
 
 Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
 
 ## Ball and stick man
 
-[![ball and stick man](assets/ball-and-stick.gif)](https://github.com/ufukty/)
+[![ball and stick man](assets/ball-and-stick.gif)](https://github.com/ufukty/ball-and-stick-man)
 
 A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
 
