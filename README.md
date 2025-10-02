@@ -44,7 +44,7 @@ A Visual Studio Code extension lets you define regex rules to dim boring parts o
 
 Tooling for finding test-passing Go code using Genetic Programming.
 
-## Reddit
+## Reddit Galaxy
 
 [![reddit](assets/reddit-galaxy.jpg)](https://github.com/ufukty/reddit-galaxy)
 
@@ -56,13 +56,13 @@ Visualization of the links between subreddits.
 
 Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
 
-## Ball and stick man
+## Ball and Stick Man
 
 [![ball and stick man](assets/ball-and-stick.gif)](https://github.com/ufukty/ball-and-stick-man)
 
 A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
 
-## Social
+## Poor Man's Social Media
 
 [![social](assets/social.gif)](https://github.com/ufukty/poor-man-s-social-media)
 
